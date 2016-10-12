@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject.Контрагенты>
+			<v8:Ref xsi:type="v8:CatalogRef.Контрагенты">0df518d9-8ec4-11e6-960a-001cc07d9c7d</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000001</v8:Code>
+			<v8:Description>Ройзман ИП</v8:Description>
+		</v8:CatalogObject.Контрагенты>
+		<v8:CatalogObject.Пользователи>
+			<v8:Ref xsi:type="v8:CatalogRef.Пользователи">0df518df-8ec4-11e6-960a-001cc07d9c7d</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>001</v8:Code>
+			<v8:Description>Оператор1</v8:Description>
+			<v8:Оклад>0</v8:Оклад>
+		</v8:CatalogObject.Пользователи>
+		<v8:CatalogObject.Номенклатура>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">0df518db-8ec4-11e6-960a-001cc07d9c7d</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000002</v8:Code>
+			<v8:Description>Копыта</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.ЕдиницыИзмерения>
+			<v8:Ref xsi:type="v8:CatalogRef.ЕдиницыИзмерения">0df518da-8ec4-11e6-960a-001cc07d9c7d</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>001</v8:Code>
+			<v8:Description>шт</v8:Description>
+		</v8:CatalogObject.ЕдиницыИзмерения>
+		<v8:CatalogObject.Номенклатура>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">7287e1ad-8ec0-11e6-960a-001cc07d9c7d</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000001</v8:Code>
+			<v8:Description>Рога</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:DocumentObject.Покупка>
+			<v8:Ref>32a97d03-9055-11e6-960a-001cc07d9c7d</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Date>2016-10-12T15:37:17</v8:Date>
+			<v8:Number>000000001</v8:Number>
+			<v8:Posted>true</v8:Posted>
+			<v8:Контрагент xsi:type="v8:CatalogRef.Контрагенты">0df518d9-8ec4-11e6-960a-001cc07d9c7d</v8:Контрагент>
+			<v8:РасходыНаПривлечение>0</v8:РасходыНаПривлечение>
+			<v8:Оператор xsi:type="v8:CatalogRef.Пользователи">0df518df-8ec4-11e6-960a-001cc07d9c7d</v8:Оператор>
+			<v8:Товары>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">0df518db-8ec4-11e6-960a-001cc07d9c7d</v8:Номенклатура>
+				<v8:ЕдиницаИзмерения xsi:type="v8:CatalogRef.ЕдиницыИзмерения">0df518da-8ec4-11e6-960a-001cc07d9c7d</v8:ЕдиницаИзмерения>
+				<v8:Количество>15</v8:Количество>
+				<v8:Цена>100</v8:Цена>
+				<v8:Сумма>1500</v8:Сумма>
+			</v8:Товары>
+			<v8:Товары>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">7287e1ad-8ec0-11e6-960a-001cc07d9c7d</v8:Номенклатура>
+				<v8:ЕдиницаИзмерения xsi:type="v8:CatalogRef.ЕдиницыИзмерения">0df518da-8ec4-11e6-960a-001cc07d9c7d</v8:ЕдиницаИзмерения>
+				<v8:Количество>10</v8:Количество>
+				<v8:Цена>200</v8:Цена>
+				<v8:Сумма>2000</v8:Сумма>
+			</v8:Товары>
+		</v8:DocumentObject.Покупка>
+		<v8:CatalogObject.Контрагенты>
+			<v8:Ref xsi:type="v8:CatalogRef.Контрагенты">aa013cda-8ecf-11e6-960a-001cc07d9c7d</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000003</v8:Code>
+			<v8:Description>Кидалово ПАО</v8:Description>
+		</v8:CatalogObject.Контрагенты>
+		<v8:DocumentObject.Покупка>
+			<v8:Ref>994ff0ac-9078-11e6-960a-001cc07d9c7d</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Date>2016-10-12T15:37:30</v8:Date>
+			<v8:Number>000000002</v8:Number>
+			<v8:Posted>true</v8:Posted>
+			<v8:Контрагент xsi:type="v8:CatalogRef.Контрагенты">aa013cda-8ecf-11e6-960a-001cc07d9c7d</v8:Контрагент>
+			<v8:РасходыНаПривлечение>0</v8:РасходыНаПривлечение>
+			<v8:Оператор xsi:type="v8:CatalogRef.Пользователи">0df518df-8ec4-11e6-960a-001cc07d9c7d</v8:Оператор>
+			<v8:Товары>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">0df518db-8ec4-11e6-960a-001cc07d9c7d</v8:Номенклатура>
+				<v8:ЕдиницаИзмерения xsi:type="v8:CatalogRef.ЕдиницыИзмерения">0df518da-8ec4-11e6-960a-001cc07d9c7d</v8:ЕдиницаИзмерения>
+				<v8:Количество>20</v8:Количество>
+				<v8:Цена>100</v8:Цена>
+				<v8:Сумма>2000</v8:Сумма>
+			</v8:Товары>
+			<v8:Товары>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">7287e1ad-8ec0-11e6-960a-001cc07d9c7d</v8:Номенклатура>
+				<v8:ЕдиницаИзмерения xsi:type="v8:CatalogRef.ЕдиницыИзмерения">0df518da-8ec4-11e6-960a-001cc07d9c7d</v8:ЕдиницаИзмерения>
+				<v8:Количество>20</v8:Количество>
+				<v8:Цена>200</v8:Цена>
+				<v8:Сумма>4000</v8:Сумма>
+			</v8:Товары>
+		</v8:DocumentObject.Покупка>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
