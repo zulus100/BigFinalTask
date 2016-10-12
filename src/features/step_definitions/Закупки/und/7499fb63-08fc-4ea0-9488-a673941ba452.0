@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject.ЕдиницыИзмерения>
+			<v8:Ref xsi:type="v8:CatalogRef.ЕдиницыИзмерения">0df518da-8ec4-11e6-960a-001cc07d9c7d</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>001</v8:Code>
+			<v8:Description>шт</v8:Description>
+		</v8:CatalogObject.ЕдиницыИзмерения>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
